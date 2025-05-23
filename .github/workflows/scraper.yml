@@ -1,0 +1,27 @@
+name: Scrap et publier données urgences
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Toutes les heures
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4
+      - name: Exécuter le scraper
+        run: python scraper.py
+      - name: Commit et push JSON
+        run: |
+          git config user.name "Kevin Bot"
+          git config user.email "kevin@example.com"
+          git add urgences.json
+          git commit -m "update json"
+          git push

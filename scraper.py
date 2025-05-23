@@ -9,10 +9,10 @@ async def run():
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page()
-        await page.goto(url)
-        await page.wait_for_selector("table tbody tr")
+        await page.goto(url, timeout=60000)  # 60s timeout
+        await page.wait_for_timeout(8000)  # attendre 8 secondes pour laisser la page charger
 
-        rows = await page.query_selector_all("table tbody tr")
+        rows = await page.query_selector_all("table tr")
         for row in rows:
             cols = await row.query_selector_all("td")
             if len(cols) >= 5:

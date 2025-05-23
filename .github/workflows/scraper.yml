@@ -23,5 +23,5 @@ jobs:
           git config user.name "Kevin Bot"
           git config user.email "kevin@example.com"
           git add urgences.json
-          git commit -m "update json"
-          git push
+          git commit -m "update json" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main

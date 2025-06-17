@@ -1,0 +1,1522 @@
+[
+  {
+    "nom": "HÔPITAL DU SACRÉ-COEUR-DE-MONTRÉAL",
+    "longitude": -73.71399688720703,
+    "latitude": 45.53260040283203
+  },
+  {
+    "nom": "HÔPITAL MAISONNEUVE-ROSEMONT",
+    "longitude": -73.55850219726562,
+    "latitude": 45.57419967651367
+  },
+  {
+    "nom": "INSTITUT UNIVERSITAIRE DE GÉRIATRIE DE MONTRÉAL",
+    "longitude": -73.6238021850586,
+    "latitude": 45.49100112915039
+  },
+  {
+    "nom": "CHUS - HÔPITAL FLEURIMONT",
+    "longitude": -71.86900329589844,
+    "latitude": 45.44779968261719
+  },
+  {
+    "nom": "CHUS - HÔTEL-DIEU DE SHERBROOKE",
+    "longitude": -71.87789916992188,
+    "latitude": 45.398399353027344
+  },
+  {
+    "nom": "HÔPITAL DU SAINT-SACREMENT",
+    "longitude": -71.24639892578125,
+    "latitude": 46.799400329589844
+  },
+  {
+    "nom": "L'HÔTEL-DIEU DE QUÉBEC",
+    "longitude": -71.21099853515625,
+    "latitude": 46.815399169921875
+  },
+  {
+    "nom": "CENTRE HOSPITALIER DE L'UNIVERSITÉ LAVAL",
+    "longitude": -71.28230285644531,
+    "latitude": 46.76789855957031
+  },
+  {
+    "nom": "HÔPITAL SAINT-FRANÇOIS D'ASSISE",
+    "longitude": -71.23660278320312,
+    "latitude": 46.82780075073242
+  },
+  {
+    "nom": "HÔPITAL DE MONT-LAURIER",
+    "longitude": -75.5177001953125,
+    "latitude": 46.549198150634766
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE RIVIÈRE-ROUGE",
+    "longitude": -74.88469696044922,
+    "latitude": 46.420799255371094
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'YOUVILLE",
+    "longitude": -74.0062026977539,
+    "latitude": 45.78310012817383
+  },
+  {
+    "nom": "HÔPITAL ET CHSLD D'YOUVILLE",
+    "longitude": -71.89510345458984,
+    "latitude": 45.39070129394531
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT ET DE SERVICES AMBULATOIRES CHAMPLAIN",
+    "longitude": -73.58679962158203,
+    "latitude": 45.43880081176758
+  },
+  {
+    "nom": "HÔPITAL DE VERDUN",
+    "longitude": -73.56400299072266,
+    "latitude": 45.4640998840332
+  },
+  {
+    "nom": "CLSC DE LA VISITATION ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS",
+    "longitude": -73.55889892578125,
+    "latitude": 45.52109909057617
+  },
+  {
+    "nom": "CENTRE HOSPITALIER RÉGIONAL DU GRAND-PORTAGE",
+    "longitude": -69.54029846191406,
+    "latitude": 47.81869888305664
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT DE SAINT-ANTONIN",
+    "longitude": -69.47869873046875,
+    "latitude": 47.76240158081055
+  },
+  {
+    "nom": "HÔPITAL DE CHICOUTIMI",
+    "longitude": -71.04859924316406,
+    "latitude": 48.42599868774414
+  },
+  {
+    "nom": "CENTRE DE SANTÉ DE CHIBOUGAMAU",
+    "longitude": -74.34919738769531,
+    "latitude": 49.91600036621094
+  },
+  {
+    "nom": "CENTRE DE SANTÉ RENÉ-RICARD",
+    "longitude": -74.85440063476562,
+    "latitude": 49.780799865722656
+  },
+  {
+    "nom": "CENTRE DE SANTÉ LEBEL",
+    "longitude": -76.9832992553711,
+    "latitude": 49.05609893798828
+  },
+  {
+    "nom": "CENTRE DE SANTÉ ISLE-DIEU",
+    "longitude": -77.62830352783203,
+    "latitude": 49.75680160522461
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX L'ÉTAPE",
+    "longitude": -77.78880310058594,
+    "latitude": 48.09809875488281
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LAC-ETCHEMIN",
+    "longitude": -70.49810028076172,
+    "latitude": 46.4005012512207
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES ESCOUMINS",
+    "longitude": -69.40709686279297,
+    "latitude": 48.35210037231445
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORESTVILLE",
+    "longitude": -69.07420349121094,
+    "latitude": 48.73720169067383
+  },
+  {
+    "nom": "CLSC DES PATRIOTES",
+    "longitude": -73.19989776611328,
+    "latitude": 45.590999603271484
+  },
+  {
+    "nom": "HÔPITAL DE MATANE",
+    "longitude": -67.52439880371094,
+    "latitude": 48.84360122680664
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MEMPHRÉMAGOG",
+    "longitude": -72.14510345458984,
+    "latitude": 45.265098571777344
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FORTIERVILLE",
+    "longitude": -72.03040313720703,
+    "latitude": 46.48640060424805
+  },
+  {
+    "nom": "HÔTEL-DIEU DU CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL",
+    "longitude": -73.5781021118164,
+    "latitude": 45.51390075683594
+  },
+  {
+    "nom": "CENTRE DE SERVICES POUR LES AÎNÉS DE SAINT-LAMBERT",
+    "longitude": -73.50360107421875,
+    "latitude": 45.49829864501953
+  },
+  {
+    "nom": "HÔPITAL DE DOLBEAU-MISTASSINI",
+    "longitude": -72.2394027709961,
+    "latitude": 48.885799407958984
+  },
+  {
+    "nom": "HÔPITAL D'ALMA",
+    "longitude": -71.66510009765625,
+    "latitude": 48.55059814453125
+  },
+  {
+    "nom": "CLSC DE POHÉNÉGAMOOK",
+    "longitude": -69.28130340576172,
+    "latitude": 47.48979949951172
+  },
+  {
+    "nom": "HÔPITAL ET CHSLD DU PONTIAC",
+    "longitude": -76.48400115966797,
+    "latitude": 45.60599899291992
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CLOUTIER",
+    "longitude": -72.50499725341797,
+    "latitude": 46.365299224853516
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DU HAUT-SAINT-MAURICE",
+    "longitude": -72.78569793701172,
+    "latitude": 47.42850112915039
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI",
+    "longitude": -71.2582015991211,
+    "latitude": 46.81079864501953
+  },
+  {
+    "nom": "CHSLD ET HÔPITAL DE CHARLESBOURG",
+    "longitude": -71.27429962158203,
+    "latitude": 46.85139846801758
+  },
+  {
+    "nom": "CHSLD ET CENTRE DE SERVICES AMBULATOIRES LUCIEN-G. ROLLAND",
+    "longitude": -74.002197265625,
+    "latitude": 45.764198303222656
+  },
+  {
+    "nom": "HÔPITAL DU CENTRE-DE-LA-MAURICIE",
+    "longitude": -72.74340057373047,
+    "latitude": 46.52560043334961
+  },
+  {
+    "nom": "HÔPITAL ET CENTRE D'HÉBERGEMENT EN SANTÉ MENTALE DE LA MAURICIE-ET-DU-CENTRE-DU-QUÉBEC",
+    "longitude": -72.74710083007812,
+    "latitude": 46.553001403808594
+  },
+  {
+    "nom": "PAVILLON SAINTE-MARIE",
+    "longitude": -72.56320190429688,
+    "latitude": 46.354400634765625
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE LÉVIS",
+    "longitude": -71.17489624023438,
+    "latitude": 46.81570053100586
+  },
+  {
+    "nom": "HÔPITAL DE GASPÉ",
+    "longitude": -64.49659729003906,
+    "latitude": 48.81290054321289
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES DE PASPÉBIAC",
+    "longitude": -65.28679656982422,
+    "latitude": 48.02199935913086
+  },
+  {
+    "nom": "HÔPITAL NOTRE-DAME-DE-FATIMA",
+    "longitude": -70.02619934082031,
+    "latitude": 47.37179946899414
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES DE MURDOCHVILLE",
+    "longitude": -65.49349975585938,
+    "latitude": 48.961299896240234
+  },
+  {
+    "nom": "HÔPITAL DE LA BAIE",
+    "longitude": -70.8832015991211,
+    "latitude": 48.34389877319336
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE MOUSSETTE",
+    "longitude": -75.7437973022461,
+    "latitude": 45.43960189819336
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MANICOUAGAN ET CLSC LIONEL-CHAREST",
+    "longitude": -68.23789978027344,
+    "latitude": 49.208900451660156
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE RAWDON",
+    "longitude": -73.70269775390625,
+    "latitude": 46.04169845581055
+  },
+  {
+    "nom": "HÔPITAL DE GATINEAU",
+    "longitude": -75.69110107421875,
+    "latitude": 45.49330139160156
+  },
+  {
+    "nom": "HÔPITAL DE HULL",
+    "longitude": -75.74600219726562,
+    "latitude": 45.44490051269531
+  },
+  {
+    "nom": "CENTRE DE SANTÉ ET DE SERVICES SOCIAUX DE LA MITIS",
+    "longitude": -68.21620178222656,
+    "latitude": 48.5723991394043
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT J.-HENRI-CHARBONNEAU",
+    "longitude": -73.55879974365234,
+    "latitude": 45.542701721191406
+  },
+  {
+    "nom": "HÔPITAL DE NOTRE-DAME-DU-LAC",
+    "longitude": -68.79930114746094,
+    "latitude": 47.61240005493164
+  },
+  {
+    "nom": "HÔPITAL DE MANIWAKI",
+    "longitude": -75.97940063476562,
+    "latitude": 46.390899658203125
+  },
+  {
+    "nom": "PAVILLON RACHEL-TOURIGNY",
+    "longitude": -73.55680084228516,
+    "latitude": 45.57400131225586
+  },
+  {
+    "nom": "CHU SAINTE-JUSTINE",
+    "longitude": -73.6249008178711,
+    "latitude": 45.50320053100586
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES PROVIDENCE",
+    "longitude": -72.71659851074219,
+    "latitude": 45.410400390625
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE LAVAL",
+    "longitude": -73.74620056152344,
+    "latitude": 45.55229949951172
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE RIMOUSKI",
+    "longitude": -68.52169799804688,
+    "latitude": 48.45479965209961
+  },
+  {
+    "nom": "HÔPITAL NEUROLOGIQUE DE MONTRÉAL",
+    "longitude": -73.5813980102539,
+    "latitude": 45.50899887084961
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES RUISSEAU-PAPINEAU",
+    "longitude": -73.76210021972656,
+    "latitude": 45.54970169067383
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES EN PÉDIATRIE CAMIRAND",
+    "longitude": -71.89430236816406,
+    "latitude": 45.398799896240234
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE KING EST",
+    "longitude": -71.86209869384766,
+    "latitude": 45.40810012817383
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES DE LA HAUTE-VILLE",
+    "longitude": -71.22789764404297,
+    "latitude": 46.805999755859375
+  },
+  {
+    "nom": "CENTRE DE SANTÉ ET DE SERVICES SOCIAUX DU GRANIT",
+    "longitude": -70.90579986572266,
+    "latitude": 45.588600158691406
+  },
+  {
+    "nom": "HÔPITAL DE LASALLE",
+    "longitude": -73.62339782714844,
+    "latitude": 45.420799255371094
+  },
+  {
+    "nom": "HÔPITAL ET CENTRE DE RÉADAPTATION DE JONQUIÈRE",
+    "longitude": -71.23509979248047,
+    "latitude": 48.41360092163086
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DU MARIGOT",
+    "longitude": -73.71019744873047,
+    "latitude": 45.58689880371094
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE LAFONTAINE",
+    "longitude": -74.0093994140625,
+    "latitude": 45.792999267578125
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHAUVEAU",
+    "longitude": -71.37000274658203,
+    "latitude": 46.85319900512695
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-ANNE-DE-BEAUPRÉ",
+    "longitude": -70.90019989013672,
+    "latitude": 47.042701721191406
+  },
+  {
+    "nom": "CHSLD ET CENTRE DE SERVICES AMBULATOIRES DRAPEAU-DESCHAMBAULT",
+    "longitude": -73.8406982421875,
+    "latitude": 45.64030075073242
+  },
+  {
+    "nom": "HÔPITAL DE VAL-D'OR",
+    "longitude": -77.79679870605469,
+    "latitude": 48.096099853515625
+  },
+  {
+    "nom": "HÔPITAL EN SANTÉ MENTALE ET CLSC DE MALARTIC",
+    "longitude": -78.12840270996094,
+    "latitude": 48.14149856567383
+  },
+  {
+    "nom": "CLINIQUE MÉDICALE DE SQUATEC",
+    "longitude": -68.7197036743164,
+    "latitude": 47.8828010559082
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES EN PÉDIATRIE DE LA RUE SAINT-VINCENT",
+    "longitude": -74.28739929199219,
+    "latitude": 46.05379867553711
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GATINEAU",
+    "longitude": -75.68569946289062,
+    "latitude": 45.483299255371094
+  },
+  {
+    "nom": "HÔPITAL D'AMQUI",
+    "longitude": -67.41929626464844,
+    "latitude": 48.46849822998047
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET CLSC VALLÉE-DES-FORTS",
+    "longitude": -73.26940155029297,
+    "latitude": 45.33570098876953
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE TERREBONNE",
+    "longitude": -73.6249008178711,
+    "latitude": 45.70869827270508
+  },
+  {
+    "nom": "CLSC SIMONNE-MONET-CHARTRAND",
+    "longitude": -73.45850372314453,
+    "latitude": 45.53609848022461
+  },
+  {
+    "nom": "HÔPITAL ET CHSLD ARGYLL",
+    "longitude": -71.91510009765625,
+    "latitude": 45.40420150756836
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE LÉVIS",
+    "longitude": -71.1791000366211,
+    "latitude": 46.8213005065918
+  },
+  {
+    "nom": "HÔTEL-DIEU DE LÉVIS",
+    "longitude": -71.17729949951172,
+    "latitude": 46.814998626708984
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-JÉRÔME",
+    "longitude": -73.99420166015625,
+    "latitude": 45.762001037597656
+  },
+  {
+    "nom": "HÔPITAL DE CHANDLER",
+    "longitude": -64.67169952392578,
+    "latitude": 48.354801177978516
+  },
+  {
+    "nom": "HÔPITAL DE L'ARCHIPEL",
+    "longitude": -61.86880111694336,
+    "latitude": 47.3755989074707
+  },
+  {
+    "nom": "HÔPITAL RÉGIONAL DE RIMOUSKI",
+    "longitude": -68.53050231933594,
+    "latitude": 48.446998596191406
+  },
+  {
+    "nom": "HÔPITAL ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE MARIA",
+    "longitude": -65.99349975585938,
+    "latitude": 48.1692008972168
+  },
+  {
+    "nom": "HÔPITAL BARRIE MEMORIAL / BARRIE MEMORIAL HOSPITAL",
+    "longitude": -73.9999008178711,
+    "latitude": 45.12630081176758
+  },
+  {
+    "nom": "HÔTEL-DIEU D'ARTHABASKA",
+    "longitude": -71.91500091552734,
+    "latitude": 46.04059982299805
+  },
+  {
+    "nom": "HÔPITAL PIERRE-LE GARDEUR",
+    "longitude": -73.510498046875,
+    "latitude": 45.7239990234375
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES SAINT-JACQUES",
+    "longitude": -72.72660064697266,
+    "latitude": 45.39799880981445
+  },
+  {
+    "nom": "HÔPITAL DE GRANBY",
+    "longitude": -72.7229995727539,
+    "latitude": 45.41059875488281
+  },
+  {
+    "nom": "MAISON DE NAISSANCE MIMOSA",
+    "longitude": -71.23789978027344,
+    "latitude": 46.75579833984375
+  },
+  {
+    "nom": "HÔPITAL ET CENTRE D'HÉBERGEMENT DE ROBERVAL",
+    "longitude": -72.21900177001953,
+    "latitude": 48.5077018737793
+  },
+  {
+    "nom": "HÔPITAL GÉNÉRAL DU LAKESHORE",
+    "longitude": -73.83370208740234,
+    "latitude": 45.44860076904297
+  },
+  {
+    "nom": "HÔPITAL DE LACHINE",
+    "longitude": -73.677001953125,
+    "latitude": 45.440799713134766
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES DE VERDUN",
+    "longitude": -73.56939697265625,
+    "latitude": 45.46260070800781
+  },
+  {
+    "nom": "HÔPITAL RICHARDSON",
+    "longitude": -73.6458969116211,
+    "latitude": 45.47200012207031
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE CÔTE-DES-NEIGES",
+    "longitude": -73.6272964477539,
+    "latitude": 45.498199462890625
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE MÉTRO",
+    "longitude": -73.58100128173828,
+    "latitude": 45.494598388671875
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT NOTRE-DAME-DE-LA-MERCI",
+    "longitude": -73.68769836425781,
+    "latitude": 45.54759979248047
+  },
+  {
+    "nom": "HÔPITAL FLEURY",
+    "longitude": -73.65039825439453,
+    "latitude": 45.571800231933594
+  },
+  {
+    "nom": "HÔPITAL JEAN-TALON",
+    "longitude": -73.6094970703125,
+    "latitude": 45.5458984375
+  },
+  {
+    "nom": "CHSLD DE SAINT-MICHEL",
+    "longitude": -73.61029815673828,
+    "latitude": 45.5620002746582
+  },
+  {
+    "nom": "CLSC DE SAINT-LÉONARD",
+    "longitude": -73.58989715576172,
+    "latitude": 45.58530044555664
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE HOCHELAGA-MAISONNEUVE",
+    "longitude": -73.54090118408203,
+    "latitude": 45.551300048828125
+  },
+  {
+    "nom": "CLSC OLIVIER-GUIMOND",
+    "longitude": -73.54750061035156,
+    "latitude": 45.57500076293945
+  },
+  {
+    "nom": "CLSC DE RIVIÈRE-DES-PRAIRIES",
+    "longitude": -73.58599853515625,
+    "latitude": 45.644798278808594
+  },
+  {
+    "nom": "CLSC DE L'EST-DE-MONTRÉAL",
+    "longitude": -73.49359893798828,
+    "latitude": 45.66640090942383
+  },
+  {
+    "nom": "HÔPITAL ET CLSC DE LA MALBAIE",
+    "longitude": -70.15170288085938,
+    "latitude": 47.65620040893555
+  },
+  {
+    "nom": "HÔPITAL DE LA CITÉ-DE-LA-SANTÉ",
+    "longitude": -73.71080017089844,
+    "latitude": 45.60329818725586
+  },
+  {
+    "nom": "CLSC ET HÔPITAL LE ROYER",
+    "longitude": -68.25250244140625,
+    "latitude": 49.19020080566406
+  },
+  {
+    "nom": "HÔPITAL SAINTE-CROIX",
+    "longitude": -72.47730255126953,
+    "latitude": 45.880001068115234
+  },
+  {
+    "nom": "HÔPITAL ET CHSLD MÉMORIAL DE WAKEFIELD / WAKEFIELD MEMORIAL HOSPITAL",
+    "longitude": -75.93260192871094,
+    "latitude": 45.64860153198242
+  },
+  {
+    "nom": "HÔPITAL ET CHSLD DE PAPINEAU",
+    "longitude": -75.4114990234375,
+    "latitude": 45.588600158691406
+  },
+  {
+    "nom": "HÔPITAL DE SAINT-EUSTACHE",
+    "longitude": -73.9136962890625,
+    "latitude": 45.5713005065918
+  },
+  {
+    "nom": "HÔPITAL DE SAINT-JÉRÔME",
+    "longitude": -74.00019836425781,
+    "latitude": 45.76559829711914
+  },
+  {
+    "nom": "HÔPITAL D'AMOS",
+    "longitude": -78.12550354003906,
+    "latitude": 48.574501037597656
+  },
+  {
+    "nom": "HÔPITAL DE ROUYN-NORANDA",
+    "longitude": -79.01930236816406,
+    "latitude": 48.24380111694336
+  },
+  {
+    "nom": "CHSLD DE ROUYN-NORANDA",
+    "longitude": -79.0166015625,
+    "latitude": 48.22869873046875
+  },
+  {
+    "nom": "HÔPITAL DE SAINT-GEORGES",
+    "longitude": -70.6852035522461,
+    "latitude": 46.10969924926758
+  },
+  {
+    "nom": "HÔPITAL PIERRE-BOUCHER",
+    "longitude": -73.45880126953125,
+    "latitude": 45.538299560546875
+  },
+  {
+    "nom": "HÔPITAL DU HAUT-RICHELIEU",
+    "longitude": -73.27020263671875,
+    "latitude": 45.33250045776367
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES, CLSC ET AIRE OUVERTE SAMUEL-DE-CHAMPLAIN",
+    "longitude": -73.46489715576172,
+    "latitude": 45.477699279785156
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES, CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-HUBERT",
+    "longitude": -73.4032974243164,
+    "latitude": 45.492801666259766
+  },
+  {
+    "nom": "HÔTEL-DIEU DE SOREL",
+    "longitude": -73.09559631347656,
+    "latitude": 46.045799255371094
+  },
+  {
+    "nom": "HÔPITAL DU SUROÎT",
+    "longitude": -74.13069915771484,
+    "latitude": 45.25090026855469
+  },
+  {
+    "nom": "HÔPITAL ANNA-LABERGE",
+    "longitude": -73.76339721679688,
+    "latitude": 45.345699310302734
+  },
+  {
+    "nom": "HÔPITAL BROME-MISSISQUOI-PERKINS",
+    "longitude": -72.71440124511719,
+    "latitude": 45.20709991455078
+  },
+  {
+    "nom": "HÔPITAL HONORÉ-MERCIER",
+    "longitude": -72.95950317382812,
+    "latitude": 45.63479995727539
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE PAPINEAU",
+    "longitude": -73.65360260009766,
+    "latitude": 45.56850051879883
+  },
+  {
+    "nom": "CLSC DE MERCIER-EST",
+    "longitude": -73.52660369873047,
+    "latitude": 45.611698150634766
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN PÉDOPSYCHIATRIE DE LÉVIS",
+    "longitude": -71.17369842529297,
+    "latitude": 46.8129997253418
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE RENÉ-LAENNEC",
+    "longitude": -73.72029876708984,
+    "latitude": 45.608699798583984
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE ET CLSC DE SHAWINIGAN-SUD",
+    "longitude": -72.74430084228516,
+    "latitude": 46.52439880371094
+  },
+  {
+    "nom": "HÔPITAL JEFFERY HALE",
+    "longitude": -71.25309753417969,
+    "latitude": 46.796600341796875
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PARC-EXTENSION",
+    "longitude": -73.62100219726562,
+    "latitude": 45.529598236083984
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-LOUIS-DU-PARC",
+    "longitude": -73.58689880371094,
+    "latitude": 45.52000045776367
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CLAUDE-DAVID",
+    "longitude": -73.47560119628906,
+    "latitude": 45.71879959106445
+  },
+  {
+    "nom": "PROGRAMME DE RECHERCHE CLINIQUE CHUM-IRCM",
+    "longitude": -73.57620239257812,
+    "latitude": 45.51340103149414
+  },
+  {
+    "nom": "HÔPITAL ET CENTRE DE RÉADAPTATION EN DÉFICIENCE PHYSIQUE IRGLM-CHARLES W. LINDSAY",
+    "longitude": -73.62950134277344,
+    "latitude": 45.50709915161133
+  },
+  {
+    "nom": "HÔPITAL ET CENTRE DE RÉADAPTATION EN DÉFICIENCE PHYSIQUE IRGLM-GUSTAVE-GINGRAS",
+    "longitude": -73.62879943847656,
+    "latitude": 45.50809860229492
+  },
+  {
+    "nom": "HÔPITAL ET CLSC DE SEPT-ÎLES",
+    "longitude": -66.38400268554688,
+    "latitude": 50.209800720214844
+  },
+  {
+    "nom": "INSTITUT UNIVERSITAIRE DE CARDIOLOGIE ET DE PNEUMOLOGIE DE QUÉBEC",
+    "longitude": -71.29769897460938,
+    "latitude": 46.77909851074219
+  },
+  {
+    "nom": "CLSC DE SAINT-MICHEL",
+    "longitude": -73.6082992553711,
+    "latitude": 45.56560134887695
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-FRANÇOIS D’ASSISE",
+    "longitude": -71.23660278320312,
+    "latitude": 46.82780075073242
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-CHARLES-BORROMÉE",
+    "longitude": -73.45390319824219,
+    "latitude": 46.04029846191406
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN PÉDOPSYCHIATRIE DE REPENTIGNY",
+    "longitude": -73.44619750976562,
+    "latitude": 45.73970031738281
+  },
+  {
+    "nom": "CENTRE DE RÉADAPTATION EN DÉFICIENCE PHYSIQUE ET SERVICES AMBULATOIRES DE BLAINVILLE",
+    "longitude": -73.89969635009766,
+    "latitude": 45.6869010925293
+  },
+  {
+    "nom": "CLSC DE ROSEMONT",
+    "longitude": -73.56210327148438,
+    "latitude": 45.54249954223633
+  },
+  {
+    "nom": "HÔPITAL GÉNÉRAL JUIF",
+    "longitude": -73.63059997558594,
+    "latitude": 45.49580001831055
+  },
+  {
+    "nom": "CENTRE HOSPITALIER UNIVERSITAIRE SAINTE-JUSTINE",
+    "longitude": -73.6260986328125,
+    "latitude": 45.5010986328125
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE DRUMMONDVILLE",
+    "longitude": -72.4363021850586,
+    "latitude": 45.840999603271484
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE DU SÉMINAIRE NORD",
+    "longitude": -73.26370239257812,
+    "latitude": 45.3114013671875
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET INSTITUT NAZARETH ET LOUIS-BRAILLE SAINT-CHARLES OUEST",
+    "longitude": -73.5197982788086,
+    "latitude": 45.52640151977539
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX AVELLIN-DALCOURT",
+    "longitude": -72.92900085449219,
+    "latitude": 46.254600524902344
+  },
+  {
+    "nom": "HÔPITAL DE JOUR - PAVILLON MARCEL D'AMOUR",
+    "longitude": -75.7406005859375,
+    "latitude": 45.424800872802734
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES CORBEIL",
+    "longitude": -75.75090026855469,
+    "latitude": 45.45100021362305
+  },
+  {
+    "nom": "HÔPITAL CHARLES-LE MOYNE",
+    "longitude": -73.48639678955078,
+    "latitude": 45.49729919433594
+  },
+  {
+    "nom": "HÔPITAL DE L'ENFANT-JÉSUS",
+    "longitude": -71.22550201416016,
+    "latitude": 46.83720016479492
+  },
+  {
+    "nom": "HÔPITAL EN SANTÉ MENTALE PIERRE-JANET",
+    "longitude": -75.73989868164062,
+    "latitude": 45.42530059814453
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET DE RÉADAPTATION POUR LES MÈRES ET LEURS ENFANTS VILLA-MARIA",
+    "longitude": -71.9052963256836,
+    "latitude": 45.40549850463867
+  },
+  {
+    "nom": "HÔPITAL CATHERINE-BOOTH",
+    "longitude": -73.6355972290039,
+    "latitude": 45.46390151977539
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE SAINT-VALLIER",
+    "longitude": -71.23909759521484,
+    "latitude": 46.81209945678711
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-POLYCARPE",
+    "longitude": -74.29900360107422,
+    "latitude": 45.30039978027344
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX RIVIÈRE-DES-PRAIRIES",
+    "longitude": -73.61139678955078,
+    "latitude": 45.62310028076172
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE JARDINS-ROUSSILLON",
+    "longitude": -73.76409912109375,
+    "latitude": 45.344200134277344
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE DRUMMONDVILLE",
+    "longitude": -72.48200225830078,
+    "latitude": 45.87620162963867
+  },
+  {
+    "nom": "CENTRE DE SANTÉ INUULITSIVIK",
+    "longitude": -77.27580261230469,
+    "latitude": 60.03770065307617
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE ET DE RÉADAPTATION EN DÉPENDANCE DE LA RUE DE L'ÉGLISE",
+    "longitude": -74.13480377197266,
+    "latitude": 45.25519943237305
+  },
+  {
+    "nom": "HÔPITAL GLEN",
+    "longitude": -73.60089874267578,
+    "latitude": 45.4734001159668
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET CLSC DE L'OASIS",
+    "longitude": -75.6886978149414,
+    "latitude": 45.49330139160156
+  },
+  {
+    "nom": "HÔPITAL DE CHISASIBI",
+    "longitude": -78.8915023803711,
+    "latitude": 53.78379821777344
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE MAISONNEUVE",
+    "longitude": -73.60459899902344,
+    "latitude": 45.4734001159668
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE DIALYSE DE LA RUE DE GASPÉ",
+    "longitude": -73.59639739990234,
+    "latitude": 45.52750015258789
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE LA POMMERAIE",
+    "longitude": -72.75350189208984,
+    "latitude": 45.19129943847656
+  },
+  {
+    "nom": "HÔPITAL SHRINERS POUR ENFANTS (QUÉBEC)",
+    "longitude": -73.60199737548828,
+    "latitude": 45.4718017578125
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE NOTRE-DAME",
+    "longitude": -73.5625991821289,
+    "latitude": 45.53099822998047
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES EN PÉDOPSYCHIATRIE DE LA RUE MARY",
+    "longitude": -74.339599609375,
+    "latitude": 45.65250015258789
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE SAINT-EUSTACHE",
+    "longitude": -73.88800048828125,
+    "latitude": 45.56880187988281
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-EUSTACHE",
+    "longitude": -73.9207992553711,
+    "latitude": 45.570499420166016
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DU BOULEVARD INDUSTRIEL",
+    "longitude": -73.91619873046875,
+    "latitude": 45.57170104980469
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VAUDREUIL-DORION",
+    "longitude": -74.05390167236328,
+    "latitude": 45.39390182495117
+  },
+  {
+    "nom": "HÔPITAL SANTA CABRINI",
+    "longitude": -73.57170104980469,
+    "latitude": 45.580101013183594
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET CLSC DU RICHELIEU",
+    "longitude": -73.24500274658203,
+    "latitude": 45.43769836425781
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE LÉVIS",
+    "longitude": -71.26349639892578,
+    "latitude": 46.73540115356445
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES BOIS-DE-BOULOGNE",
+    "longitude": -73.67970275878906,
+    "latitude": 45.537601470947266
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE FLEURY",
+    "longitude": -73.64849853515625,
+    "latitude": 45.57389831542969
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TROIS-PISTOLES",
+    "longitude": -69.1593017578125,
+    "latitude": 48.1327018737793
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE RICHELIEU-YAMASKA",
+    "longitude": -72.96009826660156,
+    "latitude": 45.63679885864258
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX SAINT-JOSEPH",
+    "longitude": -72.54650115966797,
+    "latitude": 46.34709930419922
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE SACRÉ-CŒUR",
+    "longitude": -73.67970275878906,
+    "latitude": 45.537601470947266
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE MONT-LAURIER",
+    "longitude": -75.49490356445312,
+    "latitude": 46.556400299072266
+  },
+  {
+    "nom": "CLSC SAINTE-CATHERINE ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS",
+    "longitude": -73.56269836425781,
+    "latitude": 45.510501861572266
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE VERDUN",
+    "longitude": -73.56400299072266,
+    "latitude": 45.4640998840332
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE LA VALLÉE-DE-L’OR",
+    "longitude": -77.79560089111328,
+    "latitude": 48.095298767089844
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE CHARLES-LE MOYNE",
+    "longitude": -73.50240325927734,
+    "latitude": 45.493499755859375
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINT-JEAN-SUR-RICHELIEU",
+    "longitude": -73.28410339355469,
+    "latitude": 45.3400993347168
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GASPÉ",
+    "longitude": -64.49530029296875,
+    "latitude": 48.81269836425781
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE ET CENTRE DE SERVICES AMBULATOIRES DE ST. MARY",
+    "longitude": -73.6238021850586,
+    "latitude": 45.494998931884766
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE ROUYN-NORANDA",
+    "longitude": -79.02059936523438,
+    "latitude": 48.24380111694336
+  },
+  {
+    "nom": "CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL",
+    "longitude": -73.5562973022461,
+    "latitude": 45.51179885864258
+  },
+  {
+    "nom": "HÔPITAL NOTRE-DAME",
+    "longitude": -73.5635986328125,
+    "latitude": 45.52539825439453
+  },
+  {
+    "nom": "PAVILLON ÉDOUARD-ASSELIN",
+    "longitude": -73.55860137939453,
+    "latitude": 45.51110076904297
+  },
+  {
+    "nom": "CENTRE DE RECHERCHE DU CENTRE HOSPITALIER DE L'UNIVERSITÉ DE MONTRÉAL",
+    "longitude": -73.55590057373047,
+    "latitude": 45.510799407958984
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE LONGUEUIL",
+    "longitude": -73.52050018310547,
+    "latitude": 45.522701263427734
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE SAINT-EUSTACHE",
+    "longitude": -73.93109893798828,
+    "latitude": 45.560699462890625
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE BAIE-SAINT-PAUL",
+    "longitude": -70.51210021972656,
+    "latitude": 47.43980026245117
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE GREENFIELD PARK",
+    "longitude": -73.4657974243164,
+    "latitude": 45.48189926147461
+  },
+  {
+    "nom": "HÔPITAL DE LANAUDIÈRE ET CENTRE D'HÉBERGEMENT PARPHILIA-FERLAND",
+    "longitude": -73.45700073242188,
+    "latitude": 46.03929901123047
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE ET DE RÉADAPTATION EN DÉPENDANCE DE CHARLEMAGNE",
+    "longitude": -73.4896011352539,
+    "latitude": 45.721099853515625
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE FERMONT",
+    "longitude": -67.09040069580078,
+    "latitude": 52.79669952392578
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MINGANIE",
+    "longitude": -63.604698181152344,
+    "latitude": 50.237701416015625
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE PORT-CARTIER",
+    "longitude": -66.89399719238281,
+    "latitude": 50.023799896240234
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA BASSE-CÔTE-NORD",
+    "longitude": -57.20320129394531,
+    "latitude": 51.411598205566406
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SEPT-ÎLES",
+    "longitude": -66.38279724121094,
+    "latitude": 50.21110153198242
+  },
+  {
+    "nom": "CHSLD ET HÔPITAL PAUL-GILBERT",
+    "longitude": -71.2593994140625,
+    "latitude": 46.725399017333984
+  },
+  {
+    "nom": "HÔPITAL DE MONTMAGNY",
+    "longitude": -70.5967025756836,
+    "latitude": 46.97639846801758
+  },
+  {
+    "nom": "HÔPITAL DE THETFORD",
+    "longitude": -71.27850341796875,
+    "latitude": 46.109500885009766
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES BELVÉDÈRE",
+    "longitude": -71.89649963378906,
+    "latitude": 45.38999938964844
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX D'ARGENTEUIL",
+    "longitude": -74.35209655761719,
+    "latitude": 45.66189956665039
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE BOISBRIAND",
+    "longitude": -73.86810302734375,
+    "latitude": 45.6416015625
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE LA RUE BEAUREGARD",
+    "longitude": -73.48729705810547,
+    "latitude": 45.510501861572266
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE LA RUE LABONTÉ",
+    "longitude": -73.51129913330078,
+    "latitude": 45.534000396728516
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DU BOULEVARD TASCHEREAU",
+    "longitude": -73.48760223388672,
+    "latitude": 45.499900817871094
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE L'AVENUE VICTORIA",
+    "longitude": -73.49250030517578,
+    "latitude": 45.489898681640625
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES CHOMEDEY",
+    "longitude": -73.74099731445312,
+    "latitude": 45.544498443603516
+  },
+  {
+    "nom": "CENTRE DE RÉADAPTATION EN DÉFICIENCE INTELLECTUELLE, TROUBLES DU SPECTRE DE L'AUTISME ET EN DÉFICIENCE PHYSIQUE THÉRÈSE-MARTIN",
+    "longitude": -70.00070190429688,
+    "latitude": 47.455101013183594
+  },
+  {
+    "nom": "HÔPITAL DU HAUT-RICHELIEU - CLINIQUE SUIVI DE GROSSESSE",
+    "longitude": -73.2677001953125,
+    "latitude": 45.33829879760742
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE SAINT-JÉRÔME",
+    "longitude": -74.0,
+    "latitude": 45.762001037597656
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX SAINT-JEAN",
+    "longitude": -72.48280334472656,
+    "latitude": 45.87630081176758
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX CHRIST-ROI",
+    "longitude": -72.62650299072266,
+    "latitude": 46.23149871826172
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE THÉRÈSE-DE BLAINVILLE",
+    "longitude": -73.84030151367188,
+    "latitude": 45.644500732421875
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET CLSC DE GRAND-MÈRE",
+    "longitude": -72.6978988647461,
+    "latitude": 46.615501403808594
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE LA RUE LAUZON",
+    "longitude": -73.71479797363281,
+    "latitude": 45.35850143432617
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE LA RUE DU MARCHÉ",
+    "longitude": -74.13400268554688,
+    "latitude": 45.25450134277344
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE LA RUE SAINT-PIERRE",
+    "longitude": -73.55879974365234,
+    "latitude": 45.383399963378906
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DE SAINTE-JUSTINE",
+    "longitude": -70.35340118408203,
+    "latitude": 46.40589904785156
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE LA RUE VICTORIA",
+    "longitude": -74.12760162353516,
+    "latitude": 45.256500244140625
+  },
+  {
+    "nom": "CLSC ET CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE SAINTE-THÉRÈSE",
+    "longitude": -73.84159851074219,
+    "latitude": 45.63800048828125
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINTE-AGATHE",
+    "longitude": -74.28880310058594,
+    "latitude": 46.05540084838867
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX BROADWAY",
+    "longitude": -72.7406005859375,
+    "latitude": 46.557701110839844
+  },
+  {
+    "nom": "CENTRE DE SERVICES EXTERNES POUR LES AÎNÉS ET SERVICES AMBULATOIRES DE MONT-TREMBLANT",
+    "longitude": -74.5823974609375,
+    "latitude": 46.1161994934082
+  },
+  {
+    "nom": "PÔLE DE L'HÔPITAL PIERRE-BOUCHER - BELLAGIO",
+    "longitude": -73.46399688720703,
+    "latitude": 45.53730010986328
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ALLAN MEMORIAL",
+    "longitude": -73.58260345458984,
+    "latitude": 45.50590133666992
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES GILMAN",
+    "longitude": -73.58260345458984,
+    "latitude": 45.487300872802734
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX SACRÉ-COEUR",
+    "longitude": -71.24549865722656,
+    "latitude": 46.81330108642578
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-RAYMOND",
+    "longitude": -71.82240295410156,
+    "latitude": 46.895198822021484
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SAINT-MARC-DES-CARRIÈRES",
+    "longitude": -72.04969787597656,
+    "latitude": 46.68090057373047
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE SENNETERRE",
+    "longitude": -77.25299835205078,
+    "latitude": 48.3843994140625
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE TÉMISCAMING-KIPAWA",
+    "longitude": -79.09410095214844,
+    "latitude": 46.72570037841797
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE VILLE-MARIE",
+    "longitude": -79.44439697265625,
+    "latitude": 47.33290100097656
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA SARRE",
+    "longitude": -79.19850158691406,
+    "latitude": 48.786399841308594
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DES SOURCES",
+    "longitude": -71.92610168457031,
+    "latitude": 45.77180099487305
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE LA MRC DE COATICOOK",
+    "longitude": -71.81230163574219,
+    "latitude": 45.1349983215332
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE MONT-BLEU",
+    "longitude": -75.7666015625,
+    "latitude": 45.46030044555664
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE GRANDE-VALLÉE",
+    "longitude": -65.10440063476562,
+    "latitude": 49.22719955444336
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT ET DE RÉADAPTATION MGR-ROSS",
+    "longitude": -64.49240112304688,
+    "latitude": 48.83729934692383
+  },
+  {
+    "nom": "HÔPITAL ET CLSC DE SAINTE-ANNE-DES-MONTS",
+    "longitude": -66.48280334472656,
+    "latitude": 49.11859893798828
+  },
+  {
+    "nom": "LA MAISON MICHEL-SARRAZIN",
+    "longitude": -71.25160217285156,
+    "latitude": 46.77349853515625
+  },
+  {
+    "nom": "HÔPITAL MARIE-CLARAC",
+    "longitude": -73.64969635009766,
+    "latitude": 45.59080123901367
+  },
+  {
+    "nom": "CENTRE MÉTROPOLITAIN DE CHIRURGIE PLASTIQUE",
+    "longitude": -73.69290161132812,
+    "latitude": 45.545501708984375
+  },
+  {
+    "nom": "VILLA MEDICA",
+    "longitude": -73.5687026977539,
+    "latitude": 45.51499938964844
+  },
+  {
+    "nom": "INSTITUT DE CARDIOLOGIE DE MONTRÉAL",
+    "longitude": -73.57779693603516,
+    "latitude": 45.57379913330078
+  },
+  {
+    "nom": "HÔPITAL GÉNÉRAL DE MONTRÉAL",
+    "longitude": -73.58899688720703,
+    "latitude": 45.49700164794922
+  },
+  {
+    "nom": "CENTRE HOSPITALIER DE ST. MARY",
+    "longitude": -73.62409973144531,
+    "latitude": 45.49489974975586
+  },
+  {
+    "nom": "HÔPITAL GÉNÉRAL JUIF",
+    "longitude": -73.62879943847656,
+    "latitude": 45.497798919677734
+  },
+  {
+    "nom": "HÔPITAL MONT SINAÏ",
+    "longitude": -73.65730285644531,
+    "latitude": 45.47380065917969
+  },
+  {
+    "nom": "HÔPITAL JUIF DE RÉADAPTATION",
+    "longitude": -73.73760223388672,
+    "latitude": 45.54869842529297
+  },
+  {
+    "nom": "CENTRE DE SANTÉ TULATTAVIK DE L'UNGAVA",
+    "longitude": -68.4052963256836,
+    "latitude": 58.106998443603516
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE LA RUE BIBEAU",
+    "longitude": -73.91500091552734,
+    "latitude": 45.56930160522461
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE CHAUDIÈRE-APPALACHES",
+    "longitude": -71.27239990234375,
+    "latitude": 46.72710037231445
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DES MONTÉRÉGIENNES",
+    "longitude": -73.45880126953125,
+    "latitude": 45.538299560546875
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES DE MAISONNEUVE-EST",
+    "longitude": -73.5593032836914,
+    "latitude": 45.51810073852539
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE ET CLSC DE VICTORIAVILLE",
+    "longitude": -71.93879699707031,
+    "latitude": 46.06610107421875
+  },
+  {
+    "nom": "HÔPITAL 1RE AVENUE",
+    "longitude": -71.23660278320312,
+    "latitude": 46.82780075073242
+  },
+  {
+    "nom": "HÔPITAL CHEMIN SAINTE-FOY",
+    "longitude": -71.24659729003906,
+    "latitude": 46.79899978637695
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES STILLVIEW",
+    "longitude": -73.8323974609375,
+    "latitude": 45.45069885253906
+  },
+  {
+    "nom": "HÔPITAL BOULEVARD LAURIER",
+    "longitude": -71.28230285644531,
+    "latitude": 46.76789855957031
+  },
+  {
+    "nom": "GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE D’AMOS",
+    "longitude": -78.1281967163086,
+    "latitude": 48.57500076293945
+  },
+  {
+    "nom": "PAVILLON ROSEMONT",
+    "longitude": -73.56210327148438,
+    "latitude": 45.57749938964844
+  },
+  {
+    "nom": "HÔPITAL SAINTE-ANNE",
+    "longitude": -73.94869995117188,
+    "latitude": 45.41239929199219
+  },
+  {
+    "nom": "HÔPITAL EN SANTÉ MENTALE ALBERT-PRÉVOST",
+    "longitude": -73.72899627685547,
+    "latitude": 45.52899932861328
+  },
+  {
+    "nom": "CLSC PARTHENAIS ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE DES FAUBOURGS",
+    "longitude": -73.56009674072266,
+    "latitude": 45.53099822998047
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE SPEID",
+    "longitude": -71.8583984375,
+    "latitude": 45.36980056762695
+  },
+  {
+    "nom": "CLSC ET GROUPE DE MÉDECINE DE FAMILLE UNIVERSITAIRE BORDEAUX-CARTIERVILLE",
+    "longitude": -73.68930053710938,
+    "latitude": 45.54079818725586
+  },
+  {
+    "nom": "MAISON DE TRANSIT (CENTRE DE SANTÉ TULATTAVIK DE L'UNGAVA)",
+    "longitude": -68.4052963256836,
+    "latitude": 58.106998443603516
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT DE L'HÔTEL-DIEU-DE-SAINT-HYACINTHE",
+    "longitude": -72.94999694824219,
+    "latitude": 45.625701904296875
+  },
+  {
+    "nom": "CHSLD JEANNE-LE BER",
+    "longitude": -73.52770233154297,
+    "latitude": 45.589500427246094
+  },
+  {
+    "nom": "CENTRE HOSPITALIER KATERI MEMORIAL TEHSAKOTITSEN : THA",
+    "longitude": -73.68289947509766,
+    "latitude": 45.41550064086914
+  },
+  {
+    "nom": "CENTRE HOSPITALIER PIERRE-JANET",
+    "longitude": -75.74919891357422,
+    "latitude": 45.46289825439453
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES PIERRE-JANET",
+    "longitude": -75.69190216064453,
+    "latitude": 45.4734992980957
+  },
+  {
+    "nom": "CENTRE D'HÉBERGEMENT CAMILLE-LEFEBVRE",
+    "longitude": -73.67659759521484,
+    "latitude": 45.441200256347656
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES ET MAISON DE NAISSANCE LOUVAIN",
+    "longitude": -73.65409851074219,
+    "latitude": 45.548500061035156
+  },
+  {
+    "nom": "CENTRE DE SERVICES AMBULATOIRES EN SANTÉ MENTALE DE TROIS-RIVIÈRES",
+    "longitude": -72.55760192871094,
+    "latitude": 46.34450149536133
+  },
+  {
+    "nom": "CENTRE MULTISERVICES DE SANTÉ ET DE SERVICES SOCIAUX DE WINDSOR",
+    "longitude": -72.00499725341797,
+    "latitude": 45.57080078125
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "id": "h1",
+    "name": "Centre régional de santé et de services sociaux de la Baie-James",
+    "lat": 49.91339874267578,
+    "lng": -74.35710144042969
+  },
+  {
+    "id": "h2",
+    "name": "Centre hospitalier de l'Université de Montréal",
+    "lat": 45.510799407958984,
+    "lng": -73.55590057373047
+  },
+  {
+    "id": "h3",
+    "name": "Centre intégré de santé et de services sociaux des Îles",
+    "lat": 47.3755989074707,
+    "lng": -61.86880111694336
+  },
+  {
+    "id": "h4",
+    "name": "Centre intégré de santé et de services sociaux du Bas-Saint-Laurent",
+    "lat": 48.44340133666992,
+    "lng": -68.54049682617188
+  },
+  {
+    "id": "h5",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Saguenay – Lac-Saint-Jean",
+    "lat": 48.42129898071289,
+    "lng": -71.04000091552734
+  },
+  {
+    "id": "h6",
+    "name": "Centre intégré universitaire de santé et de services sociaux de la Capitale-Nationale",
+    "lat": 46.85660171508789,
+    "lng": -71.21980285644531
+  },
+  {
+    "id": "h7",
+    "name": "Centre intégré universitaire de santé et de services sociaux de la Mauricie-et-du-Centre-du-Québec",
+    "lat": 46.34280014038086,
+    "lng": -72.53710174560547
+  },
+  {
+    "id": "h8",
+    "name": "Centre intégré universitaire de santé et de services sociaux de l'Estrie – Centre hospitalier universitaire de Sherbrooke",
+    "lat": 45.40420150756836,
+    "lng": -71.91510009765625
+  },
+  {
+    "id": "h9",
+    "name": "Centre intégré universitaire de santé et de services sociaux de l'Ouest-de-l'Île-de-Montréal",
+    "lat": 45.44860076904297,
+    "lng": -73.83370208740234
+  },
+  {
+    "id": "h10",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Centre-Ouest-de-l'Île-de-Montréal",
+    "lat": 45.497798919677734,
+    "lng": -73.62879943847656
+  },
+  {
+    "id": "h11",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Centre-Sud-de-l'Île-de-Montréal",
+    "lat": 45.52539825439453,
+    "lng": -73.5635986328125
+  },
+  {
+    "id": "h12",
+    "name": "Centre intégré universitaire de santé et de services sociaux du Nord-de-l'Île-de-Montréal",
+    "lat": 45.54759979248047,
+    "lng": -73.68769836425781
+  },
+  {
+    "id": "h13",
+    "name": "Centre intégré universitaire de santé et de services sociaux de l'Est-de-l'Île-de-Montréal",
+    "lat": 45.57419967651367,
+    "lng": -73.55850219726562
+  },
+  {
+    "id": "h14",
+    "name": "Centre intégré de santé et de services sociaux de l'Outaouais",
+    "lat": 45.480201721191406,
+    "lng": -75.722900390625
+  },
+  {
+    "id": "h15",
+    "name": "Centre intégré de santé et de services sociaux de l'Abitibi-Témiscamingue",
+    "lat": 48.24340057373047,
+    "lng": -79.02100372314453
+  },
+  {
+    "id": "h16",
+    "name": "Centre intégré de santé et de services sociaux de la Côte-Nord",
+    "lat": 49.190399169921875,
+    "lng": -68.25700378417969
+  },
+  {
+    "id": "h17",
+    "name": "Centre intégré de santé et de services sociaux de la Gaspésie",
+    "lat": 48.81290054321289,
+    "lng": -64.49669647216797
+  },
+  {
+    "id": "h18",
+    "name": "Centre intégré de santé et de services sociaux de Laval",
+    "lat": 45.60329818725586,
+    "lng": -73.71080017089844
+  },
+  {
+    "id": "h19",
+    "name": "Centre intégré de santé et de services sociaux de Lanaudière",
+    "lat": 46.0181999206543,
+    "lng": -73.44110107421875
+  },
+  {
+    "id": "h20",
+    "name": "Centre intégré de santé et de services sociaux des Laurentides",
+    "lat": 45.76559829711914,
+    "lng": -74.00019836425781
+  },
+  {
+    "id": "h21",
+    "name": "Centre intégré de santé et de services sociaux de la Montérégie-Centre",
+    "lat": 45.497798919677734,
+    "lng": -73.48419952392578
+  },
+  {
+    "id": "h22",
+    "name": "Centre intégré de santé et de services sociaux de la Montérégie-Est",
+    "lat": 45.63479995727539,
+    "lng": -72.95950317382812
+  },
+  {
+    "id": "h23",
+    "name": "Centre intégré de santé et de services sociaux de la Montérégie-Ouest",
+    "lat": 45.345699310302734,
+    "lng": -73.76339721679688
+  },
+  {
+    "id": "h24",
+    "name": "Centre intégré de santé et de services sociaux de Chaudière-Appalaches",
+    "lat": 46.46480178833008,
+    "lng": -71.04519653320312
+  },
+  {
+    "id": "h25",
+    "name": "CHU de Québec – Université Laval",
+    "lat": 46.815399169921875,
+    "lng": -71.21099853515625
+  },
+  {
+    "id": "h26",
+    "name": "Hôpital juif de réadaptation",
+    "lat": 45.54869842529297,
+    "lng": -73.73760223388672
+  },
+  {
+    "id": "h27",
+    "name": "Centre de santé et de services sociaux du Haut-Saint-Laurent",
+    "lat": 45.12630081176758,
+    "lng": -73.9999008178711
+  },
+  {
+    "id": "h28",
+    "name": "Hôpital Jeffery Hale - Saint Brigid's",
+    "lat": 46.796600341796875,
+    "lng": -71.25309753417969
+  },
+  {
+    "id": "h29",
+    "name": "Hôpital Santa Cabrini",
+    "lat": 45.580101013183594,
+    "lng": -73.57170104980469
+  },
+  {
+    "id": "h30",
+    "name": "Institut de cardiologie de Montréal",
+    "lat": 45.57379913330078,
+    "lng": -73.57779693603516
+  },
+  {
+    "id": "h31",
+    "name": "Hôpital Marie-Clarac des Soeurs de Charité de Ste-Marie (1995) inc.",
+    "lat": 45.59080123901367,
+    "lng": -73.64969635009766
+  },
+  {
+    "id": "h32",
+    "name": "Centre universitaire de santé McGill",
+    "lat": 45.49700164794922,
+    "lng": -73.58899688720703
+  },
+  {
+    "id": "h33",
+    "name": "L'Hôpital général juif Sir Mortimer B. Davis",
+    "lat": 45.497798919677734,
+    "lng": -73.62879943847656
+  },
+  {
+    "id": "h34",
+    "name": "Centre hospitalier universitaire Sainte-Justine",
+    "lat": 45.50320053100586,
+    "lng": -73.6249008178711
+  },
+  {
+    "id": "h35",
+    "name": "Centre de santé Tulattavik de l'Ungava",
+    "lat": 58.106998443603516,
+    "lng": -68.4052963256836
+  },
+  {
+    "id": "h36",
+    "name": "Centre hospitalier de St. Mary",
+    "lat": 45.49489974975586,
+    "lng": -73.62409973144531
+  },
+  {
+    "id": "h37",
+    "name": "Centre métropolitain de chirurgie plastique inc.",
+    "lat": 45.5453987121582,
+    "lng": -73.69290161132812
+  },
+  {
+    "id": "h38",
+    "name": "Hôpital Mont-Sinaï",
+    "lat": 45.47380065917969,
+    "lng": -73.65730285644531
+  },
+  {
+    "id": "h39",
+    "name": "Hôpital Shriners pour enfants (Québec) inc.",
+    "lat": 45.4718017578125,
+    "lng": -73.60199737548828
+  },
+  {
+    "id": "h40",
+    "name": "Institut universitaire de cardiologie et de pneumologie de Québec – Université Laval",
+    "lat": 46.77909851074219,
+    "lng": -71.29769897460938
+  },
+  {
+    "id": "h41",
+    "name": "Centre de santé et de services sociaux - Institut universitaire de gériatrie de Sherbrooke",
+    "lat": 45.39070129394531,
+    "lng": -71.89510345458984
+  },
+  {
+    "id": "h42",
+    "name": "Conseil cri de la santé et des services sociaux de la Baie James",
+    "lat": 53.78269958496094,
+    "lng": -78.89569854736328
+  },
+  {
+    "id": "h43",
+    "name": "La Maison Michel-Sarrazin",
+    "lat": 46.77349853515625,
+    "lng": -71.25160217285156
+  },
+  {
+    "id": "h44",
+    "name": "Conseil des Mohawks de Kahnawake",
+    "lat": 45.41389846801758,
+    "lng": -73.67639923095703
+  },
+  {
+    "id": "h45",
+    "name": "Centre de santé Inuulitsivik - Inuulitsivik Healthcenter",
+    "lat": 60.03770065307617,
+    "lng": -77.27580261230469
+  },
+  {
+    "id": "h46",
+    "name": "Villa Medica inc.",
+    "lat": 45.51499938964844,
+    "lng": -73.5687026977539
+  }
+]

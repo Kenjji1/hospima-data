@@ -3,12 +3,10 @@ from playwright.async_api import async_playwright
 import json
 from datetime import datetime
 
-# Mapping nom -> id (doit correspondre à ton hospitals.json)
-hospital_id_map = {
-    "Hôpital A": "h1",
-    "Hôpital B": "h2",
-    # ajoute tous tes hôpitaux ici...
-}
+# Charger le mapping nom -> id depuis hospitals.json
+with open("hospitals.json", "r", encoding="utf-8") as f:
+    hospitals_data = json.load(f)
+hospital_id_map = {h["name"]: h["id"] for h in hospitals_data}
 
 async def run():
     url = "https://www.indexsante.ca/urgences/montreal.php"
@@ -27,7 +25,7 @@ async def run():
                 nom = (await cols[0].inner_text()).strip()
                 attente_str = (await cols[4].inner_text()).strip()
 
-                # Convertir "1 h 15" ou "75" en minutes
+                # Convertir en minutes
                 minutes = None
                 try:
                     if "h" in attente_str:
